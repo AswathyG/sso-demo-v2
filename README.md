@@ -2,7 +2,7 @@
 
 ## Logical Architecture
 
-![SSO logical architecture](https://github.com/AswathyG/sso-demo-v1/blob/main/static/vmware.jpg?raw=true)
+![SSO logical architecture](https://github.com/AswathyG/sso-demo-v2/blob/main/static/vmware.jpg?raw=true)
 
 ## Explanation
 
